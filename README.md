@@ -1,2 +1,3 @@
 # twitter-scraper-selenium
-python projects
+twitter-scraper-selenium
+
